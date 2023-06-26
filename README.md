@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=minpic)](https://solved.ac/minpic/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=loveminpic)](https://github.com/anuraghazra/github-readme-stats)
+
